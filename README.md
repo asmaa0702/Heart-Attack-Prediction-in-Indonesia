@@ -8,7 +8,6 @@ This project focuses on **analyzing and predicting heart attack risk among indiv
 The goal is to **explore patterns, identify key risk factors, and provide insightful visual analytics** that support data-driven decision making in healthcare.
 🔗 **Dataset Source:** [Link](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-indonesia)
 ***
-***
 
 ## Dataset Description
 
@@ -105,4 +104,3 @@ Some important insights derived from the analysis include:
 **Amal Mahmoud**
 
 ***
-قولي وانا أظبطهولك فورًا 💙
